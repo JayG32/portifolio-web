@@ -33,7 +33,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     #Clonar repositório
     $ git clone https://github.com/JayG32/portifolio-web
 
+     #Entre na pasta do projeto
+    cd portifolio-web
+
+    #Instale as dependencias
+    yarn install
+
+    #Execute a aplicação
+    yarn start
+
 ```
 
 ---
-Desenvolvido por 👩‍💻 Janiele Nogueira
+Este projeto está licenciado nos termos da licença MIT  |  Desenvolvido por 👩‍💻 Janiele Nogueira
